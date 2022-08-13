@@ -2,7 +2,7 @@
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/svka%230000-%237289DA.svg?&logo=discord&logoColor=red">
+<img src="https://img.shields.io/badge/svka%231066-%237289DA.svg?&logo=discord&logoColor=red">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
